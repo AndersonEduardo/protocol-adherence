@@ -1,0 +1,14 @@
+# data files
+*.pkl
+*.pickle
+*.csv
+*.txt
+*.xls
+*.xlsx
+
+# special folder
+!./data/
+
+# other
+/__pycache__/
+*.DS_Store
